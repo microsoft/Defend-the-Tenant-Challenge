@@ -1,4 +1,3 @@
-```markdown
 # About the Microsoft Defend the Tenant Challenge
 
 The Microsoft Defend the Tenant Challenge is a hands-on security contest where participants strengthen a Microsoft 365 environment, apply real-world security recommendations, and create a practical security hardening plan for a fictional customer scenario.
