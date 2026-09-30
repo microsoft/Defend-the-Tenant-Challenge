@@ -30,7 +30,7 @@ The contest opens at **12:00 a.m. Pacific Time on October 19, 2026** and closes 
 2. Complete the required AI Skills Navigator playlist:  
    [https://aka.ms/defend-the-tenant/playlist](https://aka.ms/defend-the-tenant/playlist)
 
-3. Join the optional Hackathon Kickoff.
+3. Join the optional Hackathon Kickoff on October 19.
 
 4. Complete Phase 1 by securing the provided Microsoft 365 tenant.
 
